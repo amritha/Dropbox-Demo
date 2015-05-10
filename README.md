@@ -1,8 +1,6 @@
 # Dropbox-Demo
 Dropbox Homework for Codepath
 
-Dropbox Demo is a working prototype of the dropbox app 
-
 Time Spent: ~10 hours
 
 Completed Stories: 
